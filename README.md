@@ -38,11 +38,11 @@ Add starlight_firebase_helper as dependency to your pubspec file.
 
 ## Setup
 
-No additional integration steps are required for Android and Ios.
+No additional integration steps required for Android and Ios.
 
 ## Usage
 
-First of all you need to import our package.
+At first, you need to import our package.
 
 ```dart
 import 'package:starlight_firebase_helper/starlight_firebase_helper.dart';
